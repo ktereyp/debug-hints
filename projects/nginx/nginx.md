@@ -43,15 +43,15 @@ make install
 	
 Add a new `Makefile Application`.
 
-[new makefile application](./create_new_configuration.png)
+![new makefile application](./create_new_configuration.png)
 
 
 Create a new `Custom Build Targets`.
 
-[new custom build targets](./custom_build_target.png)
+![new custom build targets](./custom_build_target.png)
 
 Choose executable file and set working directory.
 
-[executable file and environment](./executable_and_environment.png)
+![executable file and environment](./executable_and_environment.png)
 
 
