@@ -32,12 +32,16 @@ mkdir install
        --with-stream_realip_module\
        --with-stream_geoip_module
        
-make
+bear make
 make install
 
 ```
 
 ## CLion
+
+#### import
+
+Open nginx/compile_commands.json and open as project.
 
 #### create run/debug configuration
 	
